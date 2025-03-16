@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello! 👋
 
 🚀 "The ones who are crazy enough to think they can change the world are the ones who do." – Steve Jobs
 
@@ -32,4 +32,4 @@ I have a 6th sense for spotting bugs, especially in other people's code - I'm li
 ---
 # Why am I here?
 
-I’m here to build, collaborate, and innovate. If you're working on something mind-bendingly cool, let’s talk—I promise I won't refactor your code (immediately). 🚀
+I’m here to build, collaborate, and innovate. If you're working on something mind-bendingly cool, let’s talk—I’ll bring the good ideas. 
