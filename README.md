@@ -22,7 +22,7 @@ I don’t want to be replaceable. I want to be exceptional.
 
 ---
 
-## 🛠 What I'm Working With
+##  What I'm Working With
 
 **Languages:**  
 C, C++, C#, Java, Python, Go (some I know well, others I’m still mastering)
@@ -32,7 +32,7 @@ C, C++, C#, Java, Python, Go (some I know well, others I’m still mastering)
 
 ---
 
-##Interests
+## Interests
 
 From writing code to soldering hardware, I love the feeling of making something real, especially when it solves a real problem.  
 Whether it's cloud systems, embedded devices, or automation tools, I'm here for all of it. I’m eager to learn anything and everything, constantly exploring new concepts and skills to level up my tech game!
