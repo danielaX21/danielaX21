@@ -1,35 +1,50 @@
 # Hello! 👋
 
-🚀 "The ones who are crazy enough to think they can change the world are the ones who do." – Steve Jobs
+> "Be so good they can't ignore you." – Steve Martin
 
 ---
 
-**About Me**
+## 👩‍💻 About Me
 
-Hey there! I'm Daniela, a Computer Engineering student with an insatiable passion for technology, problem-solving, and innovation. The more complex the challenge, the more excited I am to tackle it.
+Hi, I’m **Daniela** – a final-year Computer Engineering student who’s always curious, always learning, and always striving to grow.
 
-# 💡 What Drives Me?
-**Curiosity & Challenge** – I thrive on challenges that push my limits. If it’s easy, I get bored. If it’s broken, I fix it. If it works, I optimize it.
-**Building & Breaking** – I love creating things, but I also love breaking them apart to understand how they work.
-**Learning & Evolving** – Tech never sleeps, and neither does my drive to stay ahead.
-
-# 🔧 What I Work With
-
-Languages: C, Java, C#, Python, Go, C++ (Either I know them or I'm in the process of learning)
-
-Current Focus: Making authentication & authorization in REST APIs actually secure with OAuth & JWT
-Also, C# learning :)
-
-# 🎯 Interests
-From hardware to cloud, AI to algorithms—if it's tech, I'm there! Whether I'm assembling circuits from scratch, training machines to think, or launching systems into the cloud, I’m all about soaking up knowledge from every corner of tech.
-I’m eager to learn anything and everything, constantly exploring new concepts and skills to level up my tech game!
-
-
-🤯 Fun Fact
-
-I have a 6th sense for spotting bugs, especially in other people's code - I'm like Sherlock Holmes. And when it comes to debugging my own, well,  it's more  like I'm in a Scooby-Doo mystery.
+I may not know everything (yet), but give me a challenge and I’ll dive in headfirst. Whether it’s a new technology, an unfamiliar tool, or a broken system—I believe anything can be figured out with enough persistence and willingness to learn.
 
 ---
-# Why am I here?
 
-I’m here to build, collaborate, and innovate. If you're working on something mind-bendingly cool, let’s talk—I’ll bring the good ideas. 
+## 💭 What I Stand For
+
+I'm not here to be just another engineer.
+
+I want to be the kind of engineer people remember.The one you can count on when things get tough. The one who doesn’t back down from hard problems, who learns fast and adapts even faster. The one who brings value not just through skills, but through drive, work ethic, and mindset.
+
+I don’t want to be replaceable. I want to be exceptional.
+
+---
+
+## 🛠️ What I'm Working With
+
+**Languages:**  
+C, C++, C#, Java, Python, Go (some I know well, others I’m still mastering)
+
+**Current focus:**   
+- Quantum Computing
+
+---
+
+## 📚 Interests
+
+From writing code to soldering hardware, I love the feeling of making something real, especially when it solves a real problem.  
+Whether it's cloud systems, embedded devices, or automation tools, I'm here for all of it. I’m eager to learn anything and everything, constantly exploring new concepts and skills to level up my tech game!
+
+I think every project is a chance to learn and every bug is an opportunity to improve.
+
+---
+
+##  Why I'm Here
+
+To build, to learn, and to become **"that" engineer**—  
+Not average. Not replaceable.  
+Memorable.
+
+Let’s make something great.
