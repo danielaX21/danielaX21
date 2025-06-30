@@ -14,7 +14,7 @@ I may not know everything (yet), but give me a challenge and I’ll dive in head
 
 ##  Why I'm Here
 
-To build, to learn, and to become **"that" engineer**—  
+To build, to learn, and to become **"that" engineer**
 Not average. Not replaceable.  
 Memorable.
 
